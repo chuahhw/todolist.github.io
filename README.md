@@ -14,5 +14,4 @@ A simple, lightweight To-Do List application built with HTML, CSS, and JavaScrip
 
 - Built with JavaScript (no frameworks)
 
-🌐 Live Demo
-https://chuahhw.github.io/todolist.github.io/
+🌐 Live Demo: https://chuahhw.github.io/todolist.github.io/
